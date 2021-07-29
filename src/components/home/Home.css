@@ -1,0 +1,39 @@
+/* CARD */
+.card{
+  width: 16rem;
+  height: 9rem;
+}
+
+img {
+  float: right;
+  justify-content: end;
+}
+
+.text-center{
+position: relative;
+top: 40px;
+ display: flex;
+  text-align: center;
+  justify-content: center;
+ }
+
+ table td {
+   text-align: center;
+   vertical-align: middle;
+ }
+
+ table th {
+   text-align: center;
+   vertical-align: middle;
+ }
+
+.fs-6{
+  font-size: 11px;
+  
+ 
+}
+
+td .price{
+  display: block;
+
+}
